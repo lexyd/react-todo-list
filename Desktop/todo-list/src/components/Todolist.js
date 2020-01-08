@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Item from "./TodoInput";
+
 import TodoItem from "./TodoItem";
 
 export default class Todolist extends Component {
